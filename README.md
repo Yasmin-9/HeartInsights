@@ -2,7 +2,7 @@
 
 ### General Info
 
-This Group 1's project 1 where we provide insights into the correlation of various risk factors and prevalent coronary heart disease (CHD). Risk factors studied will include BMI, total cholesterol and smoking status. The sample population is further broken down by sex, age of the participants. We utilize various python libraries in order to run a successful analysis such as pandas, numpy, matplotlib and scipy.stats to extract and tranform the large dataset. Information regarding the original Framingham study can be found in the repository under a PDF file. 
+This Group 1's project 1 where we provide insights into the correlation of various risk factors and prevalent coronary heart disease (CHD). Risk factors studied will include BMI, total cholesterol and smoking status. The sample population is further broken down by sex, age of the participants. We utilize various python libraries in order to run a successful analysis such as pandas, numpy, matplotlib and scipy.stats to extract and tranform the large dataset into a comprehensive visualization with insightful findings depicted. Information regarding the original Framingham study can be found in the repository under a PDF file. 
 
 ### Organization
 
